@@ -48,3 +48,10 @@ Learn Basics of selenium which are very essential:
    Action concept: get(arg),contains(if)
    ArrayList(size method), Array(length method for calculate length of array declared)   
    conversion of array to Arraylist so that contains can be used.  For ex(list of A.contains(product))
+   
+   ?????-------------------------Day3_learning------------------?????
+   
+   Learn concepts of frames : need to enter inside the frame using switchTo method
+   handling multiple window : use of Switchto method needed
+   Learn About Actions Class 
+   
